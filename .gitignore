@@ -1,0 +1,5 @@
+# No agregamos esta carpeta por que NO HACE FALTA
+node_modules
+
+#No queremos que las credenciales personales esten publicadas en internet
+.env
